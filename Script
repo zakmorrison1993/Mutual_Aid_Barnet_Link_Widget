@@ -5,73 +5,73 @@
   </head>
   <body>
   <h3 align = "center" id = "demo"> Whatsapp Links will appear here after Captcha!</h3>
- <div align = "center"> <a href = "https://chat.whatsapp.com/Jq8K6xKnPOa6hWuw8gLoMH" id = "link"></a> </div>
+ <div align = "center"> <a href = "Link" id = "link"></a> </div>
   <h3 align = "center" id = "demo1"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/LSluk1ETljEGaB4HCdsRwB" id = "link1"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link1"></a> </div>
   <h3 align = "center" id = "demo2"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/CEQR7wYHM8j8eNcZAmWIl8" id = "link2"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link2"></a> </div>
   <h3 align = "center" id = "demo3"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/J8cieKBydWw9KscXwRzo5M" id = "link3"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link3"></a> </div>
   <h3 align = "center" id = "demo4"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/G9J9A4pvPxJHM1GbHJzavt" id = "link4"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link4"></a> </div>
   <h3 align = "center" id = "demo5"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/BbWNTlen9xHGrOPPllCcir" id = "link5"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link5"></a> </div>
   <h3 align = "center" id = "demo6"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/H0ZYtuWpg51K8reSRFDzyw" id = "link6"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link6"></a> </div>
   <h3 align = "center" id = "demo7"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/FZZ9tubGDL0Lw6gVQHvsS9" id = "link7"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link7"></a> </div>
   <h3 align = "center" id = "demo8"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/CPKgZxf7rrM9FIMThevqMm" id = "link8"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link8"></a> </div>
   <h3 align = "center" id = "demo9"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/J6LwsAMVnLGLwKLyurDoRi" id = "link9"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link9"></a> </div>
   <h3 align = "center" id = "demo10"></h3>
-  <div align = "center"> <a href = "https://chat.whatsapp.com/KmfUc5Qgczo6mtxUk1BSNT" id = "link10"></a> </div>
+  <div align = "center"> <a href = "Link" id = "link10"></a> </div>
   <script type="text/javascript">
   var show = function() {
   document.getElementById("demo").innerHTML = 
   "West Hendon:"
 document.getElementById("link").innerHTML = 
-"https://chat.whatsapp.com/Jq8K6xKnPOa6hWuw8gLoMH"
+"Link"
 document.getElementById("demo1").innerHTML = 
 "Hendon:"
 document.getElementById("link1").innerHTML = 
-"https://chat.whatsapp.com/LSluk1ETljEGaB4HCdsRwB"
+"Link"
 document.getElementById("demo2").innerHTML = 
 "Golders Green: "
 document.getElementById("link2").innerHTML = 
-"https://chat.whatsapp.com/CEQR7wYHM8j8eNcZAmWIl8"
+"Link"
 document.getElementById("demo3").innerHTML = 
 "Garden Suburb: "
 document.getElementById("link3").innerHTML = 
-"https://chat.whatsapp.com/J8cieKBydWw9KscXwRzo5M"
+"Link"
 document.getElementById("demo4").innerHTML = 
 "Childs Hill: "
 document.getElementById("link4").innerHTML =
-"https://chat.whatsapp.com/G9J9A4pvPxJHM1GbHJzavt"
+"Link"
 document.getElementById("demo5").innerHTML = 
 "East Finchley: " 
 document.getElementById("link5").innerHTML =
-"https://chat.whatsapp.com/BbWNTlen9xHGrOPPllCcir"
+"Link"
 document.getElementById("demo6").innerHTML = 
 "Woody P/W Finch: "
 document.getElementById("link6").innerHTML =
-"https://chat.whatsapp.com/H0ZYtuWpg51K8reSRFDzyw"
+"Link"
 document.getElementById("demo7").innerHTML = 
 "Church End: "
 document.getElementById("link7").innerHTML =
-"https://chat.whatsapp.com/FZZ9tubGDL0Lw6gVQHvsS9"
+"Link"
 document.getElementById("demo8").innerHTML = 
 "Edgware: "
 document.getElementById("link8").innerHTML =
-"https://chat.whatsapp.com/CPKgZxf7rrM9FIMThevqMm"
+"Link"
 document.getElementById("demo9").innerHTML = 
 "Totteridge: "
 document.getElementById("link9").innerHTML =
-"https://chat.whatsapp.com/J6LwsAMVnLGLwKLyurDoRi"
+"Link"
 document.getElementById("demo10").innerHTML = 
 "EN4: "
 document.getElementById("link10").innerHTML =
-"https://chat.whatsapp.com/KmfUc5Qgczo6mtxUk1BSNT"
+"Link"
   };
 </script>
     <form action="?" method="POST">
